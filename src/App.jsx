@@ -99,7 +99,7 @@ const IHerbBanner = ({ context = "general" }) => {
 const UpgradeBanner = ({ onUpgrade }) => (
   <div style={{ background: `linear-gradient(135deg, ${C.primary}, ${C.primaryMid})`, borderRadius: 14, margin: "8px 16px", padding: "16px", color: C.white, textAlign: "center" }}>
     <div style={{ fontSize: 18, marginBottom: 4 }}>✨ KitchAssist Plus</div>
-    <div style={{ fontSize: 13, opacity: 0.9, marginBottom: 12 }}>Go ad-free · Unlock exclusive recipes & chef voices</div>
+    <div style={{ fontSize: 13, opacity: 0.9, marginBottom: 12 }}>Go ad-free · Support independent development</div>
     <div style={{ display: "flex", gap: 8, justifyContent: "center", alignItems: "center", marginBottom: 10 }}>
       <span style={{ fontSize: 22, fontWeight: 700 }}>$7.99</span>
       <span style={{ fontSize: 13, opacity: 0.8 }}>one-time payment</span>
